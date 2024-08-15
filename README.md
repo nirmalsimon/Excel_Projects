@@ -1,2 +1,2 @@
 # Excel_Projects
-This Project Consist of various reports Build on the Performance of a Company Based on Net sales,Country wise,Zone wise,product wise etc 
+This project involves creating various reports to analyze a company's performance across different dimensions, such as net sales, performance by country and zone, product-wise performance, gross margin (GM), GM percentage, and comparisons of various factors. These reports aim to assess the company's performance across multiple verticals.
